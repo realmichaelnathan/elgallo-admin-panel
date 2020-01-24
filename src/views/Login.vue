@@ -11,6 +11,11 @@
                 </b-input>
             </b-field>
             <b-button @click="login()" type="is-info" rounded>Login</b-button>
+            <p>
+                <br /><strong>Demo Credentials:</strong><br />
+                <strong>Email:</strong> admin@demo.com<br />
+                <strong>Password:</strong> admindemo
+            </p>
         </section>
     </div>
 </template>
